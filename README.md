@@ -2,6 +2,11 @@
 
 Web3-related fake data provider for Python Faker
 
+![PyPI](https://img.shields.io/pypi/v/faker-web3)
+![PyPI - Format](https://img.shields.io/pypi/format/faker-web3)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/faker-web3)
+![GitHub](https://img.shields.io/github/license/rcstanciu/faker-web3)
+
 ## Installation
 
 ```
