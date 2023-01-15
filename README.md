@@ -1,11 +1,11 @@
-# faker_web3
+# faker-web3
 
 Web3-related fake data provider for Python Faker
 
 ## Installation
 
 ```
-pip install faker_web3
+pip install faker-web3
 ```
 
 ## Usage:

@@ -1,10 +1,15 @@
 [tool.poetry]
-name = "faker_web3"
+name = "faker-web3"
 version = "1.0.0"
 description = "Web3-related fake data provider for Python Faker"
 authors = ["Rares Stanciu <rcstanciu@protonmail.com>"]
 readme = "README.md"
 packages = [{include = "faker_web3"}]
+license = "MIT"
+repository = "https://github.com/rcstanciu/faker-web3"
+homepage = "https://github.com/rcstanciu/faker-web3"
+keywords = ["faker", "web3", "ethereum", "evm"]
+
 
 [tool.poetry.dependencies]
 python = "^3.8"
