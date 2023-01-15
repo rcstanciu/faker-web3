@@ -34,4 +34,4 @@ jobs:
       - name: Install library
         run: poetry install --no-interaction
       - name: Run tests
-        run: pytest
+        run: poetry run pytest
